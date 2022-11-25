@@ -1,0 +1,11 @@
+App(
+    appid="enjoy_flipper",
+    name="Enjoy Flipper",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="enjoy_flipper_app",
+    cdefines=["ENJOY_FLIPPER"],
+    requires=["gui"],
+    stack_size=1 * 1024,
+    fap_icon="icon.png",
+    order=50,
+)
