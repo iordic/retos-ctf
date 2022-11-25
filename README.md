@@ -7,7 +7,8 @@ nombre de evento. Cada reto contendrá su propia carpeta con:
 
 ## Contenido
 Aquí se listan todos los retos contenidos en el repositorio con la información de cada
-uno de ellos ordenados por fecha descendiente (más recientes arriba).
+uno de ellos ordenados por fecha descendiente (más recientes arriba). Algunos WriteUp
+estarán en pdf, intentaré que no pase en los futuros retos subiéndolos en Markdown.
 
 | Nombre        | Fecha     | Evento              | Tipo      | Enlaces   |
 |---------------|-----------|---------------------|:---------:|:---------:|
