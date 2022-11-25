@@ -11,8 +11,8 @@ uno de ellos ordenados por fecha descendiente (más recientes arriba).
 
 | Nombre | Fecha | Evento | Tipo | Enlaces |
 |--------|-------|--------|------|---------|
-| Whack a mole | Oct. 2021 | MoonCTF | Reversing | [:floppy_disk:](retos/2021-moonctf/whack-a-mole/whack-a-mole "Descargar el reto") [:page_facing_up:](retos/2021-moonctf/whack-a-mole/whack-a-mole.c "Código fuente") [:pencil2:](# "WriteUp")|
-| Whack a mole | Oct. 2021 | MoonCTF | Reversing | [:floppy_disk:](retos/2021-moonctf/hydrogen/hydrogen "Descargar el reto") [:page_facing_up:](retos/2021-moonctf/hydrogen/hydrogen.c "Código fuente") [:pencil2:](# "WriteUp")|
+| Whack a mole | Oct. 2021 | MoonCTF | Reversing | [:floppy_disk:](https://github.com/iordic/retos-ctf/raw/main/retos/2021-moonctf/whack-a-mole/whack-a-mole "Descargar el reto") [:page_facing_up:](retos/2021-moonctf/whack-a-mole/whack-a-mole.c "Código fuente") [:pencil2:](# "WriteUp")|
+| Hydrogen | Oct. 2021 | MoonCTF | Reversing | [:floppy_disk:](https://github.com/iordic/retos-ctf/raw/main/retos/2021-moonctf/hydrogen/hydrogen "Descargar el reto") [:page_facing_up:](retos/2021-moonctf/hydrogen/hydrogen.c "Código fuente") [:pencil2:](# "WriteUp")|
 
 | [[https://www.google.com/s2/favicons?domain=anidex.info#.png]] [http://anidex.info/ anidex.info]
 | [https://github.com/nindogo Ni Ndogo]
