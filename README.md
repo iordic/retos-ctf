@@ -1,13 +1,13 @@
 # Retos personales
-Repositorio para recopilar los retos que he ido realizando, estructurados por fecha y/o
-nombre de evento. Cada reto contendrá su propia carpeta con:
+Repositorio para recopilar los retos que he ido creando. Cada reto contendrá su propia
+carpeta con:
 * El fichero con el reto
 * El código fuente
 * Writeup de resolución
 
 ## Contenido
 Aquí se listan todos los retos contenidos en el repositorio con la información de cada
-uno de ellos ordenados por fecha descendiente (más recientes arriba). Algunos WriteUp
+uno de ellos, ordenados por fecha descendiente (más recientes arriba). Algunos WriteUp
 estarán en pdf, intentaré que no pase en los futuros retos subiéndolos en Markdown.
 
 | Nombre        | Fecha     | Evento              | Tipo      | Enlaces   |
